@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentacaoOficial_UGB_PROG3_231", "DocumentacaoOficial_UGB_PROG3_231\DocumentacaoOficial_UGB_PROG3_231.csproj", "{0285BC93-9350-48D4-8263-6D32F79BE09F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentacaoOficial_UGB_PROG3_231", "DocumentacaoOficial_UGB_PROG3_231\DocumentacaoOficial_UGB_PROG3_231.csproj", "{0285BC93-9350-48D4-8263-6D32F79BE09F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RelacionamentosDB_PROG3_231", "DocumentacaoOficial_UGB_PROG3_231\RelacionamentosDB_PROG3_231\RelacionamentosDB_PROG3_231.sqlproj", "{EF52A73D-376B-42CB-8CAA-22FADA668155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{0285BC93-9350-48D4-8263-6D32F79BE09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0285BC93-9350-48D4-8263-6D32F79BE09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0285BC93-9350-48D4-8263-6D32F79BE09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF52A73D-376B-42CB-8CAA-22FADA668155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF52A73D-376B-42CB-8CAA-22FADA668155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF52A73D-376B-42CB-8CAA-22FADA668155}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF52A73D-376B-42CB-8CAA-22FADA668155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF52A73D-376B-42CB-8CAA-22FADA668155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF52A73D-376B-42CB-8CAA-22FADA668155}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
